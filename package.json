@@ -1,0 +1,8 @@
+{
+  "name": "FinalHW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anlapier91/FinalHW.git",
+  "author": "Andrew LaPier <anlapier91@gmail.com>",
+  "license": "MIT"
+}
